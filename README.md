@@ -98,13 +98,13 @@ I'm open to opportunities in **Mexico**, preferably in **Jalisco**, **Guadalajar
 
 ## 📫 Contact & Links
 
-[![Email](https://img.shields.io/badge/-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
+[![Email](https://img.shields.io/badge/-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jonathan.tavares.isc@gmail.com)
 
 [![Web](https://img.shields.io/badge/Portfolio-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://portfolio-gilt-delta-36.vercel.app/)
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/Jonathan-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jony372)
 
-[![YouTube](https://img.shields.io/badge/jony_gaming-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@mouredev)
+[![YouTube](https://img.shields.io/badge/jony_gaming-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@jonygaming372)
 
 [![Instagram](https://img.shields.io/badge/Instagram-@Jony_Raw?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/jonyta.raw)
 
