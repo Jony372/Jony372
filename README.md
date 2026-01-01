@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+:computer: **Computer Systems Engineer**
+
+### Contact me
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fportfolio-gilt-delta-36.vercel.app%2F)
+
 <!--
 **Jony372/Jony372** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
