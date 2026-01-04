@@ -13,8 +13,8 @@ I have experience working on academic, personal, and service projects, and I'm e
 ---
 
 ## 📥 Recent activity
-<!--START_>
-<!-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ## 🛠️ Tech Stack & Tools
 
