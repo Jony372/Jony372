@@ -14,7 +14,15 @@ I have experience working on academic, personal, and service projects, and I'm e
 
 ## 📥 Recent activity
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed undefined commit(s) to [Jony372/Jony372](https://github.com/Jony372/Jony372)<br>
+2. ⬆️ Pushed undefined commit(s) to [Jony372/Jony372](https://github.com/Jony372/Jony372)<br>
+3. ⬆️ Pushed undefined commit(s) to [Jony372/Jony372](https://github.com/Jony372/Jony372)<br>
+4. ⬆️ Pushed undefined commit(s) to [Jony372/Jony372](https://github.com/Jony372/Jony372)<br>
+5. ⬆️ Pushed undefined commit(s) to [Jony372/repoCurso](https://github.com/Jony372/repoCurso)<br>
+<!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Sunday, January 4th, 2026, 6:37:27 PM
+<!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🛠️ Tech Stack & Tools
 
