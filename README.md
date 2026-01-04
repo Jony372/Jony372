@@ -12,6 +12,10 @@ I have experience working on academic, personal, and service projects, and I'm e
 
 ---
 
+## 📥 Recent activity
+<!--START_>
+<!-->
+
 ## 🛠️ Tech Stack & Tools
 
 ### Frontend
