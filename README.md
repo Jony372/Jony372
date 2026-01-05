@@ -14,14 +14,14 @@ I have experience working on academic, personal, and service projects, and I'm e
 
 ## 📥 Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Jony372/miCuartoRepo](https://github.com/Jony372/miCuartoRepo)<br>
-2. 💪 Opened PR [#2](undefined) in [Jony372/miCuartoRepo](https://github.com/Jony372/miCuartoRepo)<br>
-3. ⬆️ Pushed undefined commit(s) to [Jony372/miCuartoRepo](https://github.com/Jony372/miCuartoRepo)<br>
-4. ⬆️ Pushed undefined commit(s) to [Jony372/miCuartoRepo](https://github.com/Jony372/miCuartoRepo)<br>
-5. ⬆️ Pushed undefined commit(s) to [Jony372/miCuartoRepo](https://github.com/Jony372/miCuartoRepo)<br>
+1. ⬆️ Pushed undefined commit(s) to [Jony372/repoCurso](https://github.com/Jony372/repoCurso)<br>
+2. ⬆️ Pushed undefined commit(s) to [Jony372/repoCurso](https://github.com/Jony372/repoCurso)<br>
+3. ⬆️ Pushed undefined commit(s) to [Jony372/repoCurso](https://github.com/Jony372/repoCurso)<br>
+4. ✌️ Released [v0.1.0](https://github.com/Jony372/tercerRepo/releases/tag/v0.1.0) in [Jony372/tercerRepo](https://github.com/Jony372/tercerRepo)<br>
+5. ⬆️ Pushed undefined commit(s) to [Jony372/tercerRepo](https://github.com/Jony372/tercerRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 5th, 2026, 1:11:40 AM
+Last Updated: Monday, January 5th, 2026, 12:30:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🛠️ Tech Stack & Tools
