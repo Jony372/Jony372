@@ -38,7 +38,6 @@ Last Updated: Tuesday, January 6th, 2026, 12:29:28 PM
 * **Node.js** with **Express**
 * **MongoDB** (Mongoose models & relationships)
 * **MySQL** (queries, relational design)
-* **Mongo DB** ()
 * **PHP** (Point of Sale & invoicing system)
 
 ### Other Skills
