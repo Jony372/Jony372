@@ -14,14 +14,9 @@ I have experience working on academic, personal, and service projects, and I'm e
 
 ## 📥 Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Jony372/Cinema-back](https://github.com/Jony372/Cinema-back)<br>
-2. ⬆️ Pushed undefined commit(s) to [Jony372/Cinema-back](https://github.com/Jony372/Cinema-back)<br>
-3. ⬆️ Pushed undefined commit(s) to [Jony372/Cinema](https://github.com/Jony372/Cinema)<br>
-4. ⬆️ Pushed undefined commit(s) to [Jony372/Cinema](https://github.com/Jony372/Cinema)<br>
-5. ⬆️ Pushed undefined commit(s) to [Jony372/Cinema-back](https://github.com/Jony372/Cinema-back)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 14th, 2026, 12:32:12 PM
+Last Updated: Sunday, March 15th, 2026, 1:30:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🛠️ Tech Stack & Tools
