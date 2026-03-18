@@ -16,7 +16,7 @@ I have experience working on academic, personal, and service projects, and I'm e
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 17th, 2026, 12:51:12 PM
+Last Updated: Wednesday, March 18th, 2026, 1:24:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🛠️ Tech Stack & Tools
