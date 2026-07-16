@@ -14,14 +14,14 @@ I have experience working on academic, personal, and service projects, and I'm e
 
 ## 📥 Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Jony372/calculator](https://github.com/Jony372/calculator)<br>
+1. ⬆️ Pushed undefined commit(s) to [Jony372/store](https://github.com/Jony372/store)<br>
 2. ⬆️ Pushed undefined commit(s) to [Jony372/calculator](https://github.com/Jony372/calculator)<br>
 3. ⬆️ Pushed undefined commit(s) to [Jony372/calculator](https://github.com/Jony372/calculator)<br>
-4. 💪 Opened PR [#1](undefined) in [Jony372/calculator](https://github.com/Jony372/calculator)<br>
-5. ⬆️ Pushed undefined commit(s) to [Jony372/calculator](https://github.com/Jony372/calculator)<br>
+4. ⬆️ Pushed undefined commit(s) to [Jony372/calculator](https://github.com/Jony372/calculator)<br>
+5. 💪 Opened PR [#1](undefined) in [Jony372/calculator](https://github.com/Jony372/calculator)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 15th, 2026, 1:16:13 PM
+Last Updated: Thursday, July 16th, 2026, 1:50:20 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🛠️ Tech Stack & Tools
